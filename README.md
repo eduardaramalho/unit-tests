@@ -30,7 +30,7 @@ a aplicação estará disponível no endereço:
 
 ### Rodando os testes
 
-Para visualizar os testes no navegador digite o coimando a baixo:
+Para visualizar os testes no navegador digite o coimando a baixo: 
 
 ```
  ng test
