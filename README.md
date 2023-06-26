@@ -5,7 +5,7 @@
 Entre na pasta do projeto
 
 ```
- cd angular-testes-unitarios-template
+ cd testes-unitarios
 ```
 
 e instale as dependências
